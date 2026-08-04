@@ -87,7 +87,8 @@ Observe whether the ticket can still be viewed or modified after it has been esc
 Log in as **Jane**, who belongs to the Online Banking department, and work the ticket through completion.
 
 <p>
-<!-- Insert Screenshot -->
+< <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6e608786-96e8-48db-bc63-02b3c2db1ee5" />
+
 </p>
 
 ---
