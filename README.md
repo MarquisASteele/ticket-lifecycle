@@ -60,7 +60,8 @@ Open the ticket and review the following properties:
 - Assigned To
 
 <p>
-<!-- Insert Screenshot -->
+<<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f156459a-fe49-4d18-94c7-a2383c8dd475" />
+>
 </p>
 
 Update the ticket with the following properties:
