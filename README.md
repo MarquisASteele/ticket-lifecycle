@@ -70,7 +70,8 @@ Update the ticket with the following properties:
 - **Department:** Online Banking
 
 <p>
-<!-- Insert Screenshot -->
+< <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/8c5b587c-eb5a-45c6-981f-54f7df6a2720" />
+
 </p>
 
 Attempt to access the ticket again as **John**.
