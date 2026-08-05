@@ -133,43 +133,7 @@ Work the ticket through completion as **John**.
 
 ---
 
-<h2>Ticket Scenario 3 – CFO Laptop Failure</h2>
 
-### End User
-
-Create a ticket with the following issue:
-
-> **CFO's laptop will no longer turn on.**
-
-<p>
-<!-- Insert Screenshot -->
-</p>
-
-### Help Desk Agent (John)
-
-Review the ticket properties.
-
-- Priority
-- Department
-- SLA
-- Assigned To
-
-Assign the following properties:
-
-- **SLA:** SEV-B (4 Hours, 24/7)
-- **Department:** Support
-
-<p>
-<!-- Insert Screenshot -->
-</p>
-
-Resolve the ticket as **John**.
-
-<p>
-<!-- Insert Screenshot -->
-</p>
-
----
 
 <h2>Permission and Escalation Demonstration</h2>
 
