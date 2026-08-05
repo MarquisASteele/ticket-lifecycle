@@ -43,7 +43,7 @@ Before working through the ticket scenarios, prepare the environment by making t
 
 Create a ticket with the following issue:
 
-> **Entire mobile/online banking system is down.**
+> **The entire mobile/online banking system is down.**
 
 <p>
 <<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/d668f39b-ac91-4f74-ac88-c6c01bf422c7" />
