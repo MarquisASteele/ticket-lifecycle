@@ -102,7 +102,8 @@ Create a ticket with the following issue:
 > **Accounting department needs Adobe upgrade, broken.**
 
 <p>
-<!-- Insert Screenshot -->
+<<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/b52770a5-533f-4b9e-b190-8a3ad4e307d0" />
+>
 </p>
 
 ### Help Desk Agent (John)
@@ -126,7 +127,8 @@ Assign the following properties:
 Work the ticket through completion as **John**.
 
 <p>
-<!-- Insert Screenshot -->
+<<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/9ac8c4c0-bea9-42e4-a9b7-51e7d40bdd9f" />
+>
 </p>
 
 ---
